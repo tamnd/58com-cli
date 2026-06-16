@@ -1,0 +1,10 @@
+title       = "job58"
+baseURL     = "https://58com-cli.tamnd.com/"
+description = "58.com classifieds and local services CLI"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/58com-cli"
